@@ -1,4 +1,4 @@
-# Karachi-Plastic-waste-forecasting
+
 # Karachi Plastic Waste Forecasting
 
 Master's thesis project forecasting monthly plastic waste generation in Karachi using classical statistical, deep learning, and modern time-series models — ARIMA, LSTM, and Prophet.
